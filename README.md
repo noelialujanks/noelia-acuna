@@ -36,8 +36,8 @@
 ### Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noelia-acuna&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelia-acuna&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noelialujanks&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelialujanks&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
